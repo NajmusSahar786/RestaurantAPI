@@ -8,3 +8,11 @@ D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.csproj
 D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.sourcelink.json
 D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.dll
 D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.pdb
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\Entities.dll
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\IRepositories.dll
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\IServices.dll
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\IRepositories.pdb
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\IServices.pdb
+D:\New folder (3)\RestaurantAPI\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\New folder (3)\RestaurantAPI\Services\obj\Debug\netcoreapp3.1\Services.csproj.Up2Date
