@@ -1,3 +1,19 @@
 
 .vs/RestaurantAPI/FileContentIndex/62e438c3-853e-4aa0-82ba-2f0a0595523d.vsidx
 *.vsidx
+RestaurantAPI/bin/Debug/netcoreapp3.1/IRepositories.dll
+RestaurantAPI/bin/Debug/netcoreapp3.1/IRepositories.pdb
+RestaurantAPI/bin/Debug/netcoreapp3.1/IServices.pdb
+*.pdb
+RestaurantAPI/bin/Debug/netcoreapp3.1/RestaurantAPI.deps.json
+RestaurantAPI/bin/Debug/netcoreapp3.1/RestaurantAPI.exe
+RestaurantAPI/bin/Debug/netcoreapp3.1/RestaurantAPI.pdb
+.vs/RestaurantAPI/v17/DocumentLayout.json
+RestaurantAPI/bin/Debug/netcoreapp3.1/RestaurantAPI.deps.json
+RestaurantAPI/bin/Debug/netcoreapp3.1/RestaurantAPI.pdb
+*.pdb
+*.cache
+RestaurantAPI/obj/Debug/netcoreapp3.1/RestaurantAPI.sourcelink.json
+RestaurantAPI/obj/project.assets.json
+RestaurantAPI/obj/project.nuget.cache
+*.cache
