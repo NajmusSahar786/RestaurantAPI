@@ -1,0 +1,9 @@
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepository.deps.json
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepository.dll
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepository.pdb
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.dll
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepository.pdb

@@ -1,0 +1,13 @@
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepositories.deps.json
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepositories.dll
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\IRepositories.pdb
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.AssemblyInfoInputs.cache
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.AssemblyInfo.cs
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.csproj.CoreCompileInputs.cache
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.dll
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.pdb
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+D:\New folder (3)\RestaurantAPI\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IRepositories.csproj.AssemblyReference.cache
+D:\New folder (3)\RestaurantAPI\Contracts\obj\Debug\netcoreapp3.1\IReposit.8DA2A21D.Up2Date
