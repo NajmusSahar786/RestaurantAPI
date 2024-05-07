@@ -17,3 +17,6 @@ RestaurantAPI/obj/Debug/netcoreapp3.1/RestaurantAPI.sourcelink.json
 RestaurantAPI/obj/project.assets.json
 RestaurantAPI/obj/project.nuget.cache
 *.cache
+*.cache
+RestaurantAPI/obj/Debug/netcoreapp3.1/RestaurantAPI.AssemblyInfo.cs
+*.v2
