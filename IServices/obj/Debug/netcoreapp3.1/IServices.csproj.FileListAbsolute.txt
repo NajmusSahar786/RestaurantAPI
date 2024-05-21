@@ -8,3 +8,13 @@ D:\New folder (3)\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.cspr
 D:\New folder (3)\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.sourcelink.json
 D:\New folder (3)\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.dll
 D:\New folder (3)\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.pdb
+D:\RestaurantAPI\IServices\bin\Debug\netcoreapp3.1\IServices.deps.json
+D:\RestaurantAPI\IServices\bin\Debug\netcoreapp3.1\IServices.dll
+D:\RestaurantAPI\IServices\bin\Debug\netcoreapp3.1\IServices.pdb
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.AssemblyInfoInputs.cache
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.AssemblyInfo.cs
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.csproj.CoreCompileInputs.cache
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.sourcelink.json
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.dll
+D:\RestaurantAPI\IServices\obj\Debug\netcoreapp3.1\IServices.pdb

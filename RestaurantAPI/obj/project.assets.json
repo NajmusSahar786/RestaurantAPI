@@ -24,7 +24,7 @@
           }
         }
       },
-      "Microsoft.CSharp/4.5.0": {
+      "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -110,6 +110,26 @@
         },
         "runtime": {
           "lib/netstandard2.0/_._": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Design/3.1.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.5"
+        },
+        "compile": {
+          "lib/netstandard2.0/_._": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/3.1.5": {
@@ -1451,6 +1471,57 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "IRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRepositories.dll": {}
+        }
+      },
+      "IServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/IServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IServices.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "IRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "IRepositories": "1.0.0",
+          "IServices": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -1507,10 +1578,10 @@
         "version.txt"
       ]
     },
-    "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+    "Microsoft.CSharp/4.7.0": {
+      "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "type": "package",
-      "path": "microsoft.csharp/4.5.0",
+      "path": "microsoft.csharp/4.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1523,6 +1594,7 @@
         "lib/netcoreapp2.0/_._",
         "lib/netstandard1.3/Microsoft.CSharp.dll",
         "lib/netstandard2.0/Microsoft.CSharp.dll",
+        "lib/netstandard2.0/Microsoft.CSharp.xml",
         "lib/portable-net45+win8+wp8+wpa81/_._",
         "lib/uap10.0.16299/_._",
         "lib/win8/_._",
@@ -1532,7 +1604,7 @@
         "lib/xamarinmac20/_._",
         "lib/xamarintvos10/_._",
         "lib/xamarinwatchos10/_._",
-        "microsoft.csharp.4.5.0.nupkg.sha512",
+        "microsoft.csharp.4.7.0.nupkg.sha512",
         "microsoft.csharp.nuspec",
         "ref/MonoAndroid10/_._",
         "ref/MonoTouch10/_._",
@@ -1658,6 +1730,22 @@
         "lib/netstandard2.0/_._",
         "microsoft.entityframeworkcore.analyzers.3.1.5.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Design/3.1.5": {
+      "sha512": "Bo5IVeCueESgeADKth/w9+IIwhMb1FgNrgB/egnHoTudnoZFffxPo/HVp8R5uyDIkBkEkfD7pTLy5szMyc8c1w==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.design/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/net461/Microsoft.EntityFrameworkCore.Design.props",
+        "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
+        "microsoft.entityframeworkcore.design.3.1.5.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.5": {
@@ -5126,36 +5214,58 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "IRepositories/1.0.0": {
+      "type": "project",
+      "path": "../IRepositories/IRepositories.csproj",
+      "msbuildProject": "../IRepositories/IRepositories.csproj"
+    },
+    "IServices/1.0.0": {
+      "type": "project",
+      "path": "../IServices/IServices.csproj",
+      "msbuildProject": "../IServices/IServices.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Entities >= 1.0.0"
+      "Entities >= 1.0.0",
+      "IRepositories >= 1.0.0",
+      "IServices >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.5",
+      "Repositories >= 1.0.0",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\najmus.sahar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sahar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectUniqueName": "D:\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
       "projectName": "RestaurantAPI",
-      "projectPath": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-      "packagesPath": "C:\\Users\\najmus.sahar\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\obj\\",
+      "projectPath": "D:\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+      "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
+      "outputPath": "D:\\RestaurantAPI\\RestaurantAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\najmus.sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5169,8 +5279,20 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\New folder (3)\\RestaurantAPI\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\New folder (3)\\RestaurantAPI\\Entities\\Entities.csproj"
+            "D:\\RestaurantAPI\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\RestaurantAPI\\Entities\\Entities.csproj"
+            },
+            "D:\\RestaurantAPI\\IRepositories\\IRepositories.csproj": {
+              "projectPath": "D:\\RestaurantAPI\\IRepositories\\IRepositories.csproj"
+            },
+            "D:\\RestaurantAPI\\IServices\\IServices.csproj": {
+              "projectPath": "D:\\RestaurantAPI\\IServices\\IServices.csproj"
+            },
+            "D:\\RestaurantAPI\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\RestaurantAPI\\Repositories\\Repositories.csproj"
+            },
+            "D:\\RestaurantAPI\\Services\\Services.csproj": {
+              "projectPath": "D:\\RestaurantAPI\\Services\\Services.csproj"
             }
           }
         }
@@ -5189,6 +5311,14 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.1.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -5208,7 +5338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

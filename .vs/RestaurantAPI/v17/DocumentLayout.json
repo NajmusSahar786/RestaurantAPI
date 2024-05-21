@@ -1,73 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder (3)\\RestaurantAPI\\",
+  "WorkspaceRootPath": "D:\\RestaurantAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\new folder (3)\\restaurantapi\\restaurantapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B150269-D430-4213-91AD-14642646BE49}|Entities\\Entities.csproj|d:\\restaurantapi\\entities\\migrations\\20240521170507_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B150269-D430-4213-91AD-14642646BE49}|Entities\\Entities.csproj|solutionrelative:entities\\migrations\\20240521170507_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B150269-D430-4213-91AD-14642646BE49}|Entities\\Entities.csproj|d:\\restaurantapi\\entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B150269-D430-4213-91AD-14642646BE49}|Entities\\Entities.csproj|solutionrelative:entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\restaurantapi\\restaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahar\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.5\\build\\netcoreapp2.0\\Microsoft.EntityFrameworkCore.Design.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\restaurantapi\\restaurantapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\new folder (3)\\restaurantapi\\restaurantapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\restaurantapi\\restaurantapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\new folder (3)\\restaurantapi\\iservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\restaurantapi\\iservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|solutionrelative:iservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\new folder (3)\\restaurantapi\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\restaurantapi\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\new folder (3)\\restaurantapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\restaurantapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\new folder (3)\\restaurantapi\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|d:\\restaurantapi\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDB64833-E34E-4388-A0DF-EC0C59E03B30}|Services\\Services.csproj|solutionrelative:services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\new folder (3)\\restaurantapi\\iservices\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\restaurantapi\\iservices\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|solutionrelative:iservices\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\new folder (3)\\restaurantapi\\iservices\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|d:\\restaurantapi\\iservices\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71FB75F8-F729-4C5F-B2F7-B4B223E8C56F}|IServices\\IServices.csproj|solutionrelative:iservices\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\new folder (3)\\restaurantapi\\irepositories\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\restaurantapi\\irepositories\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|solutionrelative:irepositories\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\new folder (3)\\restaurantapi\\irepositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\restaurantapi\\irepositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|solutionrelative:irepositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\new folder (3)\\restaurantapi\\irepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\restaurantapi\\irepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|solutionrelative:irepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\new folder (3)\\restaurantapi\\restaurantapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|d:\\restaurantapi\\restaurantapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B33A26C-1634-4832-A193-C5F8B83DF297}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\new folder (3)\\restaurantapi\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\restaurantapi\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\new folder (3)\\restaurantapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\restaurantapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\new folder (3)\\restaurantapi\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\restaurantapi\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\new folder (3)\\restaurantapi\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|d:\\restaurantapi\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5433E5E2-7E8F-469C-9182-0E0CB7AE0D78}|IRepositories\\IRepositories.csproj|solutionrelative:irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\new folder (3)\\restaurantapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|d:\\restaurantapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBBABF17-ADEE-4A05-BABA-5B22B38EAFB9}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,228 +93,265 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABuAAAA",
+              "DocumentIndex": 0,
+              "Title": "20240521170507_InitialMigration.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Entities\\Migrations\\20240521170507_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20240521170507_InitialMigration.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Entities\\Migrations\\20240521170507_InitialMigration.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20240521170507_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:01:11.054Z",
+              "WhenOpened": "2024-05-21T17:05:07.858Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "IServices\\IEmployeeService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IEmployeeService.cs",
-              "RelativeToolTip": "IServices\\IEmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Entities\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Employee.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Entities\\Models\\Employee.cs",
+              "RelativeToolTip": "Entities\\Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:55:03.799Z",
+              "WhenOpened": "2024-05-21T16:57:10.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Services\\AccountService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Services\\AccountService.cs",
-              "RelativeToolTip": "Services\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:53:29.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "Services\\EmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:53:10.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OwnerService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Services\\OwnerService.cs",
-              "RelativeDocumentMoniker": "Services\\OwnerService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Services\\OwnerService.cs",
-              "RelativeToolTip": "Services\\OwnerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:48:45.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOwnerService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IOwnerService.cs",
-              "RelativeDocumentMoniker": "IServices\\IOwnerService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IOwnerService.cs",
-              "RelativeToolTip": "IServices\\IOwnerService.cs",
+              "Title": "Microsoft.EntityFrameworkCore.Design.props",
+              "DocumentMoniker": "C:\\Users\\sahar\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.5\\build\\netcoreapp2.0\\Microsoft.EntityFrameworkCore.Design.props",
+              "ToolTip": "C:\\Users\\sahar\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.5\\build\\netcoreapp2.0\\Microsoft.EntityFrameworkCore.Design.props [Read Only]",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:46:40.936Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-21T16:56:33.258Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Startup.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
-              "RelativeToolTip": "RestaurantAPI\\Startup.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:42:53.946Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RestaurantAPI\\RestaurantAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantAPI\\appsettings.json",
+              "ToolTip": "D:\\RestaurantAPI\\RestaurantAPI\\appsettings.json",
+              "RelativeToolTip": "RestaurantAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T16:50:24.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IAccountService.cs",
-              "RelativeDocumentMoniker": "IServices\\IAccountService.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IServices\\IAccountService.cs",
-              "RelativeToolTip": "IServices\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "IServices\\IEmployeeService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IServices\\IEmployeeService.cs",
+              "RelativeToolTip": "IServices\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:55:42.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T17:55:03.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\WeatherForecast.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\RestaurantAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "RestaurantAPI\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:45:58.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OwnerRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\OwnerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\OwnerRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\OwnerRepository.cs",
-              "RelativeToolTip": "Repositories\\OwnerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:34.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:33.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:31.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "IRepositories\\IRepositoryBase.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IRepositoryBase.cs",
-              "RelativeToolTip": "IRepositories\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:21.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T17:53:29.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IOwnerRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IOwnerRepository.cs",
-              "RelativeDocumentMoniker": "IRepositories\\IOwnerRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IOwnerRepository.cs",
-              "RelativeToolTip": "IRepositories\\IOwnerRepository.cs",
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:53:10.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Services\\OwnerService.cs",
+              "RelativeDocumentMoniker": "Services\\OwnerService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Services\\OwnerService.cs",
+              "RelativeToolTip": "Services\\OwnerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:48:45.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOwnerService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IServices\\IOwnerService.cs",
+              "RelativeDocumentMoniker": "IServices\\IOwnerService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IServices\\IOwnerService.cs",
+              "RelativeToolTip": "IServices\\IOwnerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:20.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T17:46:40.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Startup.cs",
+              "ToolTip": "D:\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
+              "RelativeToolTip": "RestaurantAPI\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:42:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:01:11.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "IRepositories\\IEmployeeRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IEmployeeRepository.cs",
-              "RelativeToolTip": "IRepositories\\IEmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IServices\\IAccountService.cs",
+              "RelativeDocumentMoniker": "IServices\\IAccountService.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IServices\\IAccountService.cs",
+              "RelativeToolTip": "IServices\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:19.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T17:55:42.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "IRepositories\\IAccountRepository.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\IRepositories\\IAccountRepository.cs",
-              "RelativeToolTip": "IRepositories\\IAccountRepository.cs",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\RestaurantAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\RestaurantAPI\\RestaurantAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "RestaurantAPI\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:46:16.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T17:45:58.654Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OwnerRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "Repositories\\OwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:34.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IRepositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "IRepositories\\IRepositoryBase.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IRepositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "IRepositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IRepositories\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "IRepositories\\IOwnerRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IRepositories\\IOwnerRepository.cs",
+              "RelativeToolTip": "IRepositories\\IOwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:20.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IRepositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "IRepositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IRepositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "IRepositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\IRepositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "IRepositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\RestaurantAPI\\IRepositories\\IAccountRepository.cs",
+              "RelativeToolTip": "IRepositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\RepositoryBase.cs",
+              "DocumentMoniker": "D:\\RestaurantAPI\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
-              "ToolTip": "D:\\New folder (3)\\RestaurantAPI\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\RestaurantAPI\\Repositories\\RepositoryBase.cs",
               "RelativeToolTip": "Repositories\\RepositoryBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T15:39:55.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T15:39:55.916Z"
             }
           ]
         }

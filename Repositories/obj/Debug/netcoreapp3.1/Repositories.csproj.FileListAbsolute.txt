@@ -14,3 +14,19 @@ D:\New folder (3)\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositorie
 D:\New folder (3)\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Reposito.787EC4B2.Up2Date
 D:\New folder (3)\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
 D:\New folder (3)\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\Entities.dll
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\IRepositories.dll
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\RestaurantAPI\Repositories\bin\Debug\netcoreapp3.1\IRepositories.pdb
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.AssemblyReference.cache
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.sourcelink.json
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Reposito.787EC4B2.Up2Date
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+D:\RestaurantAPI\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
